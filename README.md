@@ -1,2 +1,15 @@
-# my-video-site
-A video playing website 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Video Site</title>
+</head>
+<body>
+  <h3>📺 My Video Website</h3>
+
+  <a href="video1.html">▶ Video 1</a><br><br>
+  <a href="video2.html">▶ Video 2</a>
+
+  <p>Made for Jio Phone</p>
+</body>
+</html>
